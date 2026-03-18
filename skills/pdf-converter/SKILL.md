@@ -1,3 +1,8 @@
+---
+name: pdf-converter
+description: PDF 转 PPTX/Word/Excel/HTML 转换器 - 支持批量转换、文件大小控制和多种输出格式。Use when converting PDF to PowerPoint (PPTX), Word (DOCX), Excel (XLSX), or HTML formats.
+---
+
 # pdf-converter
 
 PDF 转 PPTX/Word 转换器 - 将 PDF 文件转换为 PowerPoint 或 Word 格式，支持文件大小限制。
